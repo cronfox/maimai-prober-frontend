@@ -28,6 +28,7 @@
 - [开发者入驻指南](/docs/developer-guide)
 - [舞萌 DX API 文档](/docs/api/maimai)
 - [中二节奏 API 文档](/docs/api/chunithm)
+- [前端 API 文档](/docs/api/user)
 - [OAuth 接入指南](/docs/oauth-guide)
 - [OAuth API 文档](/docs/api/oauth)
 - [首页项目展示](/docs/project-showcase)
