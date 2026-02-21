@@ -370,7 +370,7 @@ JSON 格式的玩家成绩：
 
 ## 个人 API
 
-仅列举部分 API 接口，完整接口请参考前端调用。
+完整的个人 API 接口文档请参考[前端 API 文档](/docs/api/user)。
 
 ### GET `/api/v0/user/chunithm/player`
 
