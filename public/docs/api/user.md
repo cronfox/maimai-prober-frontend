@@ -938,7 +938,7 @@ Collection[]，参考对应游戏文档中的 Collection 结构体。
 | 参数名 | 类型 | 说明 |
 |-|-|-|
 | `song_id` | `int` | 曲目 ID |
-| `level_index` | `int` | 难度 |
+| `level_index` | `string` | 难度 |
 | `song_type` | `string` | 值可空，谱面类型 |
 
 #### 响应体
